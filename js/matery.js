@@ -58,10 +58,11 @@ $(function () {
     });
 
     /*初始化瀑布流布局*/
-    $('#articles').masonry({
-        itemSelector: '.article'
+    let $grid = $('#articles').masonry({
+        itemSelector: '.article',
+        columnWidth: '.article',
+        percentPosition: true
     });
-
     AOS.init({
         easing: 'ease-in-out-sine',
         duration: 700,

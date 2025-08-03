@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>摘星阁</title>
+  
+  <subtitle>摘星阁</subtitle>
+  <link href="https://sundae1319.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://sundae1319.github.io/"/>
+  <updated>2025-08-03T21:25:42.730Z</updated>
+  <id>https://sundae1319.github.io/</id>
+  
+  <author>
+    <name>Sundae</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>摘星阁：我的数字家园落成了！</title>
+    <link href="https://sundae1319.github.io/2025/08/02/hello-world/"/>
+    <id>https://sundae1319.github.io/2025/08/02/hello-world/</id>
+    <published>2025-08-02T15:38:57.819Z</published>
+    <updated>2025-08-03T21:25:42.730Z</updated>
+    
+    <content type="html"><![CDATA[<p>大家好！</p><p>欢迎来到 摘星阁！</p><p>经过一番折腾（感谢 Hexo 这个强大的博客框架，让搭建变得如此快捷！），我的个人博客——“摘星阁”——终于正式落成了。这里将是我分享想法、记录生活、探索技术和存放灵感的数字家园。</p><p>“摘星阁”这个名字，寄托了我的一点小小愿景。我们每个人在人生的旅途中，都像是在仰望星空，试图触及那些遥远而璀璨的梦想。这个小角落，就是我用来记录“摘星”过程中的点点滴滴的地方——无论是成功的喜悦、失败的反思，还是途中偶遇的奇思妙想。</p><p>在这里，你可能会看到：</p><p>技术笔记：学习编程、折腾各种工具（比如这次的 Hexo！）的心得体会。<br>生活感悟：对日常琐事、社会现象的随笔和思考。<br>兴趣分享：音乐、阅读、旅行……任何我觉得有趣的事物。<br>虽然现在它还略显空旷，但我相信，随着时间的推移，内容的积累，“摘星阁”会变得越来越充实和精彩。</p><p>非常高兴能在这里与你相遇。希望这里的文字能偶尔带给你一些启发或乐趣。</p><p>再次欢迎大家的到来，愿我们都能在各自的道路上，勇敢追星，快乐摘星！</p><p>P.S. 搭建过程中参考了 Hexo 的官方文档和故障排除指南，解决了一些小问题，感觉学到了不少东西呢！如果你也想拥有一个快速、简洁又强大的博客，不妨试试 Hexo 吧！</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;大家好！&lt;/p&gt;
+&lt;p&gt;欢迎来到 摘星阁！&lt;/p&gt;
+&lt;p&gt;经过一番折腾（感谢 Hexo 这个强大的博客框架，让搭建变得如此快捷！），我的个人博客——“摘星阁”——终于正式落成了。这里将是我分享想法、记录生活、探索技术和存放灵感的数字家园。&lt;/p&gt;
+&lt;p&gt;“摘星阁”这个名字，</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第三篇文章</title>
+    <link href="https://sundae1319.github.io/2025/01/03/third-post/"/>
+    <id>https://sundae1319.github.io/2025/01/03/third-post/</id>
+    <published>2025-01-03T02:00:00.000Z</published>
+    <updated>2025-08-03T21:26:25.573Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是第三篇文章，继续测试轮播图功能。</p><h2 id="轮播图效果"><a href="#轮播图效果" class="headerlink" title="轮播图效果"></a>轮播图效果</h2><p>现在应该有三篇文章在轮播图中显示了。</p><h3 id="轮播图配置"><a href="#轮播图配置" class="headerlink" title="轮播图配置"></a>轮播图配置</h3><ul><li>切换延迟：120ms</li><li>自动切换间隔：5秒</li><li>显示左右按钮：是</li><li>显示指示器：是</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是第三篇文章，继续测试轮播图功能。&lt;/p&gt;
+&lt;h2 id=&quot;轮播图效果&quot;&gt;&lt;a href=&quot;#轮播图效果&quot; class=&quot;headerlink&quot; title=&quot;轮播图效果&quot;&gt;&lt;/a&gt;轮播图效果&lt;/h2&gt;&lt;p&gt;现在应该有三篇文章在轮播图中显示了。&lt;/p&gt;
+&lt;h3 id=&quot;轮</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第二篇文章</title>
+    <link href="https://sundae1319.github.io/2025/01/02/second-post/"/>
+    <id>https://sundae1319.github.io/2025/01/02/second-post/</id>
+    <published>2025-01-02T02:00:00.000Z</published>
+    <updated>2025-08-03T21:26:02.653Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是第二篇文章，用于测试轮播图功能。</p><h2 id="轮播图测试"><a href="#轮播图测试" class="headerlink" title="轮播图测试"></a>轮播图测试</h2><p>这篇文章设置了 <code>cover: true</code>，应该会显示在首页轮播图中。</p><h3 id="功能特点"><a href="#功能特点" class="headerlink" title="功能特点"></a>功能特点</h3><ul><li>自动轮播</li><li>左右切换按钮</li><li>指示器显示</li><li>点击阅读更多</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是第二篇文章，用于测试轮播图功能。&lt;/p&gt;
+&lt;h2 id=&quot;轮播图测试&quot;&gt;&lt;a href=&quot;#轮播图测试&quot; class=&quot;headerlink&quot; title=&quot;轮播图测试&quot;&gt;&lt;/a&gt;轮播图测试&lt;/h2&gt;&lt;p&gt;这篇文章设置了 &lt;code&gt;cover: true&lt;/code&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
